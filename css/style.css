@@ -140,9 +140,8 @@ font-size: 14.6913px;
     
   }
   .course{
-      width: 100%;
-      height: auto;
-      margin: 15px;
+ margin-left: 20%;
+
   }
 }
  /* tablet devices */
@@ -159,6 +158,10 @@ font-size: 14.6913px;
      
      
   }  
+  .course-list{
+     
+      
+  }
   .player, .course, .blog{
       flex-direction: column;
 
